@@ -1,0 +1,52 @@
+/*main.css*/
+
+body { 
+	background: violet;
+ }
+
+ h1 {color: yellow;
+ }
+
+ ol {
+ 	font-weight: bold; color: white; font-size:;
+ }
+
+a{
+	text-decoration: none;
+
+}
+
+
+
+#nav {
+	background-color: teal; border-style: groove; border-radius: 15px;
+}
+
+
+
+#back {
+	background-color: turquoise; border-style: groove; border-radius: 15px; height: 20px;
+}
+
+#puppies {
+	
+}
+
+#ground {
+	background-color: aqua;
+}
+
+#navi {
+	background-color: teal; border-style: groove; border-radius: 15px;
+}
+.margin_borders{
+	border-style: solid;
+	border-color: red;
+	margin-left: 300px;
+	margin-right: 300px;
+
+}
+body {
+	background: yellow;
+	font-family: 'Darker Grotesque', sans-serif;
+}
